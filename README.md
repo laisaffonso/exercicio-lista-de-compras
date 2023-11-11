@@ -1,4 +1,4 @@
-# exercicio-lista-de-compras
+# exercicio 1 do módulo de html básico - lista de compras
 
 Esse exercício consiste em criar uma página em html de uma lista de compras simples com os valores destacados.
 
